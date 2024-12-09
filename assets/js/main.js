@@ -91,7 +91,7 @@ function tryResult() {
             hits.push(inputElement.id);
         } else {
             errors.push(inputElement.id);
-        }
+        }//martin
 
         contador++;
     }

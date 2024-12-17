@@ -5,6 +5,9 @@
     --color-background-body-darker: rgb(65, 40, 40);
     --color-white: rgb(255, 255, 255);
     --color-background-keyboard: rgb(105, 80, 80);
+    --color-green: rgb(52, 97, 40);
+    --color-yellow: rgb(186, 202, 43);
+    --color-red: rgb(158, 55, 41);
 }
 
 *{
